@@ -1,5 +1,6 @@
 #about{
     margin-top: 2rem;
+    margin-bottom: 2rem;
     box-sizing: border-box;
     padding-inline: 2rem;
     background-color: var(--surface-color);

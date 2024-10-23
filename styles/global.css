@@ -14,8 +14,14 @@
     --p-sm: 400 0.75rem/170% var(--poppins);
 }
 
+html{
+    overflow-x: hidden;
+}
+
 body{
     width: 22.5rem;
+    background-color: var(--surface-color);
+    
 }
 .desktop-only{
     display: none;

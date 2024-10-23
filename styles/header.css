@@ -1,3 +1,10 @@
+
+header{
+    background-color: var(--surface-color);
+
+}
+
+
 .logo{
     align-items: center;
     gap: 11px;

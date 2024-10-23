@@ -1,0 +1,39 @@
+.desktop-only{
+    display: none;
+ }
+ 
+ 
+ .flex{
+    display: flex;
+ }
+
+ .gap-1\.25{
+    gap: 1.25rem;
+ }
+ 
+ .gap-1\.5{
+gap: 1.5rem;
+ }
+
+.gap{
+    gap: 1rem;
+}
+
+.container{
+    width: 100%;
+}
+
+ 
+ 
+ @media (width >= 80rem){
+ 
+    
+
+      .container{
+        box-sizing: border-box;
+        padding-inline: 2rem;
+      }
+
+      
+
+ }

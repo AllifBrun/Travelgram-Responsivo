@@ -1,0 +1,33 @@
+:root{
+    --brand-color: #EF5F4C;
+    --background-color:#FFFFFF;
+    --surface-color:#F5F5F5;
+    --skeleton-color:#D9D9D9;
+    --shape-transparency:#C4C4CC;
+
+    --text-color-primary: #313131;
+    --text-color-secondary: #6C6C6C;
+
+    --poppins: "Poppins", sans-serif;
+    --h1: 700 2rem/125% var((--poppins));
+    --p-md: 400 0.875rem/170% var(--poppins);
+    --p-sm: 400 0.75rem/170% var(--poppins);
+}
+
+body{
+    width: 22.5rem;
+}
+.desktop-only{
+    display: none;
+ }
+ 
+
+
+
+@media (width >= 80rem){
+
+    body{
+
+        width: 100vw;
+    }
+}

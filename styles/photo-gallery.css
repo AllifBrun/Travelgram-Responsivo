@@ -99,7 +99,7 @@
 
 @media (width >= 80rem){
     #photo-gallery{
-
+        padding-bottom: 1.5rem;
         
         & .grid-container {
             
@@ -111,8 +111,8 @@
             & .grid-item {
                 background: url(../assets/Image\ 01.png);
                 background-size: cover;
-                width: 17.875rem;
-                height: 17.875rem;
+                width: 1fr;
+                height: 1fr;
             }
         }
     }

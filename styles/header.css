@@ -53,6 +53,10 @@ padding: 1rem;
         padding: 0;
     }
 
+    & svg{
+        margin-left: 2.5rem;
+    }
+
     .header-item{
         margin-left: auto;
         padding-right: 0;
